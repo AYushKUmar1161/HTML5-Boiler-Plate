@@ -1,1 +1,34 @@
+# 🌐 HTML Boilerplate Template
+
+A simple and customizable HTML5 Boilerplate template built by **Ayush Kumar**. This starter project helps you kick-start your front-end web development quickly and efficiently, following best practices in structure, scalability, and performance.
+
+---
+
+## 📌 What is This?
+
+This project is a basic **HTML5 boilerplate** that includes the essential structure and components needed for any web project. Whether you're building a static website or a more complex web app, this template provides a clean and organized foundation.
+
+It includes:
+- Clean `index.html` with essential meta tags
+- A linked CSS file (`style.css`) for styling
+- A JavaScript file (`script.js`) for interactivity
+- Folder structure to help organize your files
+
+---
+
+## 🚀 Features
+
+- ✅ HTML5 doctype
+- ✅ Responsive meta tags
+- ✅ Organized folder structure
+- ✅ External CSS and JS files linked
+- ✅ Placeholder code with comments
+- ✅ Easy to expand and maintain
+- ✅ Developer-friendly layout
+- ✅ SEO and accessibility ready (basic)
+
+---
+
+## 🗂️ Folder Structure
+
 
